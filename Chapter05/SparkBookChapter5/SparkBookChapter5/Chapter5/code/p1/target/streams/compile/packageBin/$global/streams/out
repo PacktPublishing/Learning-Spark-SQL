@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/spark-streaming-example_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	TFLArrivalPredictionsByLine.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLArrivalPredictionsByLine.class[0m
+[0m[[0mdebug[0m] [0m	TFLCustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLCustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	TFLCustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLCustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver.class[0m
+[0m[[0mdebug[0m] [0m	TFLStreamingApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLStreamingApp.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/CustomReceiver$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TFLStreamingApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLStreamingApp$.class[0m
+[0m[[0mdebug[0m] [0m	TFLCustomReceiver.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/aurobindosarkar/Downloads/SparkBook/Chapter5/code/p1/target/scala-2.11/classes/TFLCustomReceiver.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,5 @@
+run local[2]
+package
+run local[2]
+run
+run TFLCustomReceiver https://api.tfl.gov.uk/Line/circle/Arrivals?stopPointId=940GZZLUERC&app_id=a73727f3&app_key=dc8150560a2422afae2b70cf291c4327
